@@ -1,5 +1,10 @@
 body {
     font-family: 'Mali', cursive;
-    color: rgb(79, 114, 209)
+    color: rgb(79, 114, 209);
 }
+
+#Score {
+    text-align: center;
+}
+
 

@@ -1,7 +1,5 @@
 import './main.css'
 import React, { Component } from 'react'
-import images from './imgs'
-
 
 class Container extends Component {
 
@@ -11,11 +9,14 @@ class Container extends Component {
 
     //     }
     // }
+
     render() {
         return (
             <>
-                <div className="imgsDiv">
-                    <img src={window.location.origin + '/imgs/pusheen1.jpg'} />
+                <div className="btnsPusheen">
+                    <div className="row1">
+                        <button className="button1"></button>
+                    </div>
                 </div>
             </>
         )
