@@ -17,7 +17,7 @@ class Container extends Component {
                     <div className="row1">
                         <button className="button1"></button>
                     </div>
-                </div>
+                </div>  
             </>
         )
     }
